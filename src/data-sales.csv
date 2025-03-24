@@ -1,0 +1,21 @@
+id_venda,produto,quantidade,preco_unitario,data_venda,cliente,desconto,total_venda
+1,Smartphone,2,2000,2025-01-15,Alice,0,4000
+2,Laptop,1,5000,2025-01-16,Bob,100,4900
+3,Fone de ouvido,5,300,2025-01-17,Charlie,0,1500
+4,Tablet,3,1500,2025-01-18,David,200,4200
+5,Smartwatch,2,1000,2025-01-19,Eve,100,1800
+6,Câmera,1,3000,2025-01-20,Frank,0,3000
+7,Notebook,1,4500,2025-01-21,Grace,300,4200
+8,Smartphone,1,2000,2025-01-22,Hank,0,2000
+9,Fone de ouvido,3,350,2025-01-23,Ivy,50,950
+10,Laptop,2,5000,2025-01-24,Jack,0,10000
+11,Smartwatch,3,1200,2025-01-25,Lucas,150,3150
+12,Câmera,2,3000,2025-01-26,Maria,0,6000
+13,Tablet,4,1500,2025-01-27,Nina,200,5800
+14,Smartphone,3,2000,2025-01-28,Oscar,0,6000
+15,Notebook,1,4500,2025-01-29,Paula,300,4200
+16,Fone de ouvido,2,350,2025-01-30,Quincy,0,700
+17,Smartwatch,4,1000,2025-02-01,Rachel,100,3800
+18,Tablet,2,1500,2025-02-02,Sam,200,2800
+19,Câmera,3,3000,2025-02-03,Tina,0,9000
+20,Smartphone,1,2000,2025-02-04,Uma,0,2000
